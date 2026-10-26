@@ -17,7 +17,10 @@ How to Run:
 Worked in testing; the issue at demo time was likely hardware. 
 
 Credits: 
+
 Jake Arnsparger: Code Base, Hardware and Documentation
+
 Logan: Code base, Hardware, Documentation
+
 Dillion: Hardware, and Testing
 
